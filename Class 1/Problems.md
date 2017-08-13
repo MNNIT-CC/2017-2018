@@ -1,10 +1,11 @@
-As homework:
+### As homework:
 
 1. Write a code to bubble sort an array of structures. The structure contains a name and roll
 no. Sort by name.
 2. Study Recursion code for factorial.
 
-Practice problems on Online judges:
+### Practice problems on Online judges:
+
 [http://www.spoj.com/problems/VOWELS/](http://www.spoj.com/problems/VOWELS/)
 [http://www.spoj.com/problems/HC/](http://www.spoj.com/problems/HC/)
 [http://www.spoj.com/problems/ADDREV/](http://www.spoj.com/problems/ADDREV/)
